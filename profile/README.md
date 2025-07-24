@@ -12,7 +12,7 @@
 
 ## 🌍 Mission
 
-Pylon anchors humanity to **trustworthy** and **planet‑aware** artificial intelligence. We turn cutting‑edge research into real‑world products and open tools that benefit society—starting with the Greek information sphere and radiating outward.
+PYLON anchors humanity to **trustworthy** and **planet‑aware** artificial intelligence. We turn cutting‑edge research into real‑world products and open tools that benefit society—starting with the Greek information sphere and radiating outward.
 
 ## 🏛 Foundational Pillars
 
@@ -89,7 +89,7 @@ This project is licensed under the **Apache License 2.0**—see [`LICENSE`](LICE
 
 ## 🙏 Acknowledgements
 
-Pylon is powered by the Greek research ecosystem, the **DAEDALUS** & **Pharos** HPC centres, and the ever‑growing **Greeks‑in‑AI** community. Your feedback, pull requests, and critique keep us honest and impactful.
+PYLON is powered by the Greek research ecosystem, the **DAEDALUS** & **Pharos** HPC centres, and the ever‑growing **Greeks‑in‑AI** community. Your feedback, pull requests, and critique keep us honest and impactful.
 
 ---
 
