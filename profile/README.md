@@ -41,7 +41,7 @@ A bilingual (Greek‑English) AI platform that detects and maps misinformation n
 ## 📂 Repository Structure
 
 ```
-/manifesto            → Pylon Manifesto (Markdown)
+/manifesto            → PYLON Manifesto (Markdown)
 /concept‑notes        → 2‑page concept note & investor one‑pager
 /models               → Open‑weight checkpoints & model passports
 /alethes        → Pilot source code, datasets & docs
