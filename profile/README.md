@@ -100,5 +100,5 @@ PYLON is powered by the Greek research ecosystem, the **DAEDALUS** & **Pharos** 
 - **Slack:** [https://pylonlabs.ai/slack‑invite](https://pylonlabs.ai/slack‑invite)
 - **Email:** [info@pylonlabs.ai](mailto\:info@pylonlabs.ai)
 
-*“Pylon will be to trustworthy AI what CERN is to particle physics.”*
+*“PYLON will be to trustworthy AI what CERN is to particle physics.”*
 
