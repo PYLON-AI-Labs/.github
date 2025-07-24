@@ -1,11 +1,11 @@
-# Pylon
+# PYLON
 
 > Greece’s lighthouse for **Transparent**, **Sustainable** & **Product‑Driven** AI\
 > *Building the bridge between responsible intelligence and the world we share.*
 
-\
-\
-\
+
+
+
 
 
 ---
