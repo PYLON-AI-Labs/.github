@@ -1,57 +1,55 @@
-# PYLON
 
-> Greece’s lighthouse for **Transparent**, **Sustainable** & **Product‑Driven** AI\
+# **PYLON**
+
+> Greece’s lighthouse for **Transparent**, **Sustainable**, and **Product‑Driven** AI  
 > *Building the bridge between responsible intelligence and the world we share.*
-
-
-
-
-
 
 ---
 
-## 🌍 Mission
+## 🌍 **Mission**
 
-PYLON anchors humanity to **trustworthy** and **planet‑aware** artificial intelligence. We turn cutting‑edge research into real‑world products and open tools that benefit society—starting with the Greek information sphere and radiating outward.
+PYLON anchors humanity to **trustworthy** and **planet-aware** artificial intelligence. We turn cutting‑edge research into real‑world products and open tools that benefit society—starting with the Greek information sphere and radiating outward.
 
-## 🏛 Foundational Pillars
+---
+
+## 🏛 **Foundational Pillars**
 
 | Pillar                          | What it means                                                           | Key Commitments                                                                            |
 | ------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Radical Transparency**        | Open algorithms, data provenance, governance, and metrics.              | • Model passports under the EU AI Act• Public red‑team bounties• Explainability dashboards |
-| **Sustainable Intelligence**    | Energy‑efficient models & full‑cycle carbon accounting.                 | • Real‑time CO₂ ledger• Renewable‑powered GPU clusters• Parameter‑efficient architectures  |
-| **Product for the Commons**     | Tools that solve pressing problems in media, climate, culture & health. | • Open‑source core• Fair licensing & equity spin‑outs                                      |
-| **AI for Scientific Discovery** | Accelerating hypotheses in materials, biology & energy.                 | • Open notebooks & benchmarks• Simulation surrogate models                                 |
+| **Radical Transparency**        | Open algorithms, data provenance, governance, and metrics.              | • Model passports under the EU AI Act. <br>• Public red‑team bounties. <br>• Explainability dashboards. |
+| **Sustainable Intelligence**    | Energy‑efficient models & full‑cycle carbon accounting.                 | • Real‑time CO₂ ledger. <br>• Renewable‑powered GPU clusters. <br>• Parameter‑efficient architectures. |
+| **Product for the Commons**     | Tools that solve pressing problems in media, climate, culture & health. | • Open‑source core. <br>• Fair licensing & equity spin‑outs. |
+| **AI for Scientific Discovery** | Accelerating hypotheses in materials, biology & energy.                 | • Open notebooks & benchmarks. <br>• Simulation surrogate models. |
 
 ---
 
-## 🚀 Flagship Pilot — Alethes
+## 🚀 **Flagship Pilot — Alethes**
 
-A bilingual (Greek‑English) AI platform that detects and maps misinformation narratives **in real time**.
+Alethes is a bilingual (Greek‑English) AI platform that detects and maps misinformation narratives **in real time**.
 
 - **Precision:** ≥ 90 % on the GreekMMD benchmark.
-- **Dashboards:** network graphs, timeline heat‑maps, source risk scores.
+- **Dashboards:** Network graphs, timeline heat‑maps, source risk scores.
 - **API:** JSON & GraphQL endpoints for newsrooms, fact‑checkers, and public agencies.
 
-> *Status: α prototype in development (shipping Month 6, July 2025 → January 2026).*\
+> *Status: α prototype in development (shipping Month 6, July 2025 → January 2026).*  
 > *Beta with two national media partners planned for Month 9.*
 
 ---
 
-## 📂 Repository Structure
+## 📂 **Repository Structure**
 
 ```
-/manifesto            → PYLON Manifesto (Markdown)
-/concept‑notes        → 2‑page concept note & investor one‑pager
-/models               → Open‑weight checkpoints & model passports
-/alethes        → Pilot source code, datasets & docs
-/tools/carbon‑ledger  → Energy & CO₂ tracking plugin (coming soon)
-/docs                 → Governance, policies, meeting minutes
+/manifesto            → PYLON Manifesto (Markdown)  
+/concept‑notes        → 2‑page concept note & investor one‑pager  
+/models               → Open‑weight checkpoints & model passports  
+/alethes              → Pilot source code, datasets & docs  
+/tools/carbon‑ledger  → Energy & CO₂ tracking plugin (coming soon)  
+/docs                 → Governance, policies, meeting minutes  
 ```
 
 ---
 
-## 🛠 Quick Start
+## 🛠 **Quick Start**
 
 ```bash
 # Clone the repo
@@ -69,7 +67,7 @@ $ jupyter lab notebooks/alethes.ipynb
 
 ---
 
-## 🤝 Contributing
+## 🤝 **Contributing**
 
 We ♥ pull requests! Before submitting, please:
 
@@ -81,24 +79,23 @@ All contributors must sign the **Contributor License Agreement (CLA)** for Apach
 
 ---
 
-## 📜 License
+## 📜 **License**
 
 This project is licensed under the **Apache License 2.0**—see [`LICENSE`](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgements
+## 🙏 **Acknowledgements**
 
-PYLON is powered by the Greek research ecosystem, the **DAEDALUS** & **Pharos** HPC centres, and the ever‑growing **Greeks‑in‑AI** community. Your feedback, pull requests, and critique keep us honest and impactful.
+PYLON is powered by the **Greek research ecosystem**, the **DAEDALUS** & **Pharos** HPC centres, and the ever‑growing **Greeks‑in‑AI** community. Your feedback, pull requests, and critique keep us honest and impactful.
 
 ---
 
-## 📬 Contact & Community
+## 📬 **Contact & Community**
 
 - **Website:** [https://pylonlabs.ai](https://pylonlabs.ai)
 - **Twitter / X:** [@PylonAI](https://twitter.com/PylonAI)
 - **Slack:** [https://pylonlabs.ai/slack‑invite](https://pylonlabs.ai/slack‑invite)
-- **Email:** [info@pylonlabs.ai](mailto\:info@pylonlabs.ai)
+- **Email:** [info@pylonlabs.ai](mailto:info@pylonlabs.ai)
 
 *“PYLON will be to trustworthy AI what CERN is to particle physics.”*
-
